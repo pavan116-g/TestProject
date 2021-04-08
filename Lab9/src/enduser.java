@@ -6,6 +6,7 @@ public class enduser
 {
 		public static void main(String args[])
 		  {
+				//Hii i am pavan Teja
 			  Configuration cg=new Configuration();
 			  cg.configure("hibernate.cfg.xml");
 			  SessionFactory sf=cg.buildSessionFactory();
